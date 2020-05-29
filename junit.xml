@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" time="10.194">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-05-29T20:33:02" time="4.185" tests="1">
+    <testcase classname=" has a placeholder attribute when rendering" name=" has a placeholder attribute when rendering" time="0.049">
+    </testcase>
+  </testsuite>
+  <testsuite name="the button component" errors="0" failures="0" skipped="0" timestamp="2020-05-29T20:33:07" time="0.615" tests="0">
+    <testcase classname="the button component renders" name="the button component renders" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
